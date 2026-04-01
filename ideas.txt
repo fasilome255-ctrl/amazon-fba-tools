@@ -1,0 +1,3 @@
+- product ideas
+- supplier notes
+- profit calculations
